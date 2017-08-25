@@ -1,9 +1,2 @@
-<<<<<<< HEAD
 gazebo_learn
-
-learning gazebo
-test
-=======
-# gazebo_learn
-learning gazebo
->>>>>>> 50c6596a7f973d3bb124806fc773b01ebca06763
+这是一个关于gazebo的自学编程文件夹
